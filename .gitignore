@@ -1,0 +1,14 @@
+*.fastq
+SRR*/
+*.sam
+*.bam
+*.bam.bai
+called_variants.vcf
+raw_variants.vcf
+high_confidence_variants.vcf
+annotated_variants.vcf
+ecoli_reference.fasta
+ecoli_reference.fasta.*
+ecoli_annotation.gff
+fastp.json
+*.sra
